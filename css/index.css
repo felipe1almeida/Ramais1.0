@@ -1,0 +1,137 @@
+
+
+#logo {
+    margin-left: 45%;
+    margin-top: 3vw;
+}
+
+
+
+#busca {
+    padding-left: 15%;
+    padding-top: 2em;
+    width: 82vw;
+}
+
+#tabela {
+    margin-top: 1em;
+    margin-left: 15%;
+    width: 68%;
+
+}
+
+#fotousuario {
+    margin-left: 4%;
+    width: 79px;
+    border-radius: 70%;
+}
+
+img {
+
+    margin-left: 4%;
+    width: 79px;
+    border-radius: 70%;
+}
+
+#inicio {
+    background-color: #73C6B6;
+}
+
+.fotos {
+    width: 100px;
+}
+
+.foto-funcionario {
+    margin: 0 auto;
+    border-radius: 140em;
+    width: 85px;
+    padding: 0;
+
+}
+
+.table td,
+.table th {
+    padding: .75rem;
+    vertical-align: baseline !important;
+    border-top: 1px solid #dee2e6;
+
+
+
+}
+
+body {
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    
+    
+}
+
+#fotoperfil {
+    width: 20%;
+}
+
+.rounded {
+    border-radius: 0.25rem !important;
+    width: 25%;
+    margin-left: -49vw;
+}
+
+
+.fa,
+.fas {
+    font-weight: 900;
+    margin-left: 2vw;
+}
+
+
+*, ::before, ::after {
+
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+
+
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+
+
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    text-align: left;
+}
+
+
+td img:hover
+{
+    
+    display: inline-block;
+    /* width: 2em; */
+
+   
+      transition: all .3s ease-in-out;
+
+      
+        transform: scale(3.9);
+}
+
+.subir 
+{
+    display: inline-block;
+    /* width: 2em; */
+
+   
+      transition: all .3s ease-in-out;
+
+      
+        transform: scale(0.9);
+    
+}

@@ -1,0 +1,721 @@
+[
+    
+  
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Aida Sosa",
+        "Setor": "Suprentos",
+        "Email": "suprentos@gmail.com.br",
+        "Ramal": "794"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Armindo Piñero",
+        "Setor": "Suprentos ",
+        "Email": "suprentos@gmail.com.br",
+        "Ramal": "759"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Brígida Gomes",
+        "Setor": "Suprentos ",
+        "Email": "suprentos@gmail.com.br",
+        "Ramal": "759"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Elisabete Cidreira",
+        "Setor": "Credito ",
+        "Email": "cadastro@gmail.com.br",
+        "Ramal": "315"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Levi Baldaia",
+        "Setor": "Vendas",
+        "Email": "vendedor@gmail.com.br",
+        "Ramal": "304"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Letícia  Batata",
+        "Setor": "Secretaria",
+        "Email": "secretaria@gmail.com.br",
+        "Ramal": "751"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Marina Guilheiro",
+        "Setor": "Secretaria",
+        "Email": "secretaria@gmail.com.br",
+        "Ramal": "758"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Nídia Giménez",
+        "Setor": "Financeiro",
+        "Email": "financeiro@gmail.com.br",
+        "Ramal": "795"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Oliveira Aguiar",
+        "Setor": "Cobrança",
+        "Email": "cobranca@gmail.com.br",
+        "Ramal": "797"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Rebeca Rebouças",
+        "Setor": "Cobrança",
+        "Email": "cobranca@gmail.com.br",
+        "Ramal": "780"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Simão Abasto",
+        "Setor": "Cobrança",
+        "Email": "cobranca@gmail.com.br",
+        "Ramal": "733"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Valentina Vieyra",
+        "Setor": "Sac",
+        "Email": "sac@gmail.com.br",
+        "Ramal": "762"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Veridiana Coelho",
+        "Setor": "Sac",
+        "Email": "sac@gmail.com.br",
+        "Ramal": "750"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Vitória Guará",
+        "Setor": "Comercial",
+        "Email": "ricardo.cerqueira@gmail.com.br",
+        "Ramal": "732"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Ítala Thomé",
+        "Setor": "Comercial",
+        "Email": "renan.souza@gmail.com.br",
+        "Ramal": "747"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "André Prado",
+        "Setor": "Comercial",
+        "Email": "decoracao@maioraltextil.com.br",
+        "Ramal": "799"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Anna Ipanema",
+        "Setor": "Comercial",
+        "Email": "jose.augusto@gmail.com.br",
+        "Ramal": "727"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Cláudia Chousa",
+        "Setor": "Comercial",
+        "Email": "mariano@gmail.com.br",
+        "Ramal": "772"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Cristiano Baptista",
+        "Setor": "Comercial",
+        "Email": "comercial@gmail.com.br",
+        "Ramal": "774"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Deise Sardinha",
+        "Setor": "Recepção",
+        "Email": "recepcao@gmail.com.br",
+        "Ramal": "774"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Delfina Passos",
+        "Setor": "Além Mar",
+        "Email": "",
+        "Ramal": "744"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Délia Pérez",
+        "Setor": "Além Mar",
+        "Email": "",
+        "Ramal": "744"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Gina Ochoa",
+        "Setor": "Além Mar",
+        "Email": "",
+        "Ramal": "782"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Samuel Lorencetti",
+        "Setor": "Além Mar",
+        "Email": "",
+        "Ramal": "744"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Jacinto Quirino",
+        "Setor": "Além Mar",
+        "Email": "",
+        "Ramal": "744"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Leandro Vicente",
+        "Setor": "Fotus",
+        "Email": "leandro.vicente@gmail.com.br",
+        "Ramal": "769"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Reinaldo De Souza",
+        "Setor": "Denvolvento",
+        "Email": "reinaldo@alemmarports.com.br",
+        "Ramal": "791"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Elyfa Francisco",
+        "Setor": "Compras",
+        "Email": "compras@gmail.com.br",
+        "Ramal": "771"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Thais Fernand",
+        "Setor": "Compras",
+        "Email": "compras@gmail.com.br",
+        "Ramal": "771"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Brendow Vieira",
+        "Setor": "Compras",
+        "Email": "compras@gmail.com.br",
+        "Ramal": "771"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Leonardo Antun",
+        "Setor": "Compras",
+        "Email": "leonardo.antun@gmail.com.br",
+        "Ramal": "791"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Camila de Paula",
+        "Setor": "Financeiro",
+        "Email": "financeiro@gmail.com.br",
+        "Ramal": "752"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Juliana Miranda",
+        "Setor": "Financeiro",
+        "Email": "financeiro@gmail.com.br",
+        "Ramal": "753"
+    },
+     {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Kelyane Bermud",
+        "Setor": "ADM",
+        "Email": "keliany@alemmarports.com.br",
+        "Ramal": ""
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Patrick",
+        "Setor": "ADM ",
+        "Email": "comercial@alemmarports.com.br",
+        "Ramal": "783"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Fernando Abilio",
+        "Setor": "ADM",
+        "Email": "comercial@alemmarports.com.br",
+        "Ramal": "783"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Kamila De Lourd",
+        "Setor": "ADM",
+        "Email": "comercial@alemmarports.com.br",
+        "Ramal": "783"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Samira Andriotte",
+        "Setor": "ADM",
+        "Email": "comercial@alemmarports.com.br",
+        "Ramal": "783"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Carlos Alberto",
+        "Setor": "ADM",
+        "Email": "comercial@alemmarports.com.br",
+        "Ramal": "783"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Mafalda Lima",
+        "Setor": "TI",
+        "Email": "ti@gmail.com.br",
+        "Ramal": "763"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Plínio Lima",
+        "Setor": "TI",
+        "Email": "johnatan@gmail.com.br",
+        "Ramal": "734"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Severino Murici",
+        "Setor": "TI",
+        "Email": "ti@gmail.com.br",
+        "Ramal": "734"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Soeiro Roriz",
+        "Setor": "TI",
+        "Email": "ti@gmail.com.br",
+        "Ramal": "763"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Urânia Villanueva",
+        "Setor": "TI",
+        "Email": "ti@gmail.com.br",
+        "Ramal": "763"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Eduardo Marçal",
+        "Setor": "Gerente geral",
+        "Email": "",
+        "Ramal": "770"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Rodrigo Capistrano",
+        "Setor": "Pridencia",
+        "Email": "",
+        "Ramal": ""
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Noé Valido",
+        "Setor": "Pridencia",
+        "Email": "maycon@gmail.com.br",
+        "Ramal": ""
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Maurício Maia",
+        "Setor": "Pridencia",
+        "Email": "jjfilho@gmail.com.br",
+        "Ramal": ""
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Valmir Lop",
+        "Setor": "Marketing/Dign",
+        "Email": "marketing@gmail.com.br",
+        "Ramal": "789"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Erani De Oliveira",
+        "Setor": "Marketing/Dign",
+        "Email": "marketing@gmail.com.br",
+        "Ramal": "789"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Naiara Souza",
+        "Setor": "Marketing/Dign",
+        "Email": "marketing@gmail.com.br",
+        "Ramal": "789"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Dagma Conceição",
+        "Setor": "Dign",
+        "Email": "",
+        "Ramal": "789"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Edson Cristian",
+        "Setor": "Depto psoal",
+        "Email": "dp@gmail.com.br",
+        "Ramal": "787"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Tatiana Lucinda",
+        "Setor": "Depto psoal",
+        "Email": "tatiana.santos@gmail.com.br",
+        "Ramal": "725"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Jsica Plaster",
+        "Setor": "Contabilidade",
+        "Email": "jsica.plaster@gmail.com.br",
+        "Ramal": "746"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Samira de Araujo",
+        "Setor": "Contabilidade",
+        "Email": "contabil@gmail.com.br",
+        "Ramal": "776"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Fabiola Fernand",
+        "Setor": "Contabilidade",
+        "Email": "contabil@gmail.com.br",
+        "Ramal": "754"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Rayane Luciane",
+        "Setor": "Contabilidade",
+        "Email": "contabil@gmail.com.br",
+        "Ramal": "776"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Oswaldo Correia",
+        "Setor": "Expedição litoral",
+        "Email": "expedicao@gmail.com.br",
+        "Ramal": "740"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Maycon de Jus",
+        "Setor": "Expedição maioral",
+        "Email": "expedicao@alemmarports.com.br",
+        "Ramal": "761"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Fernando Vicente",
+        "Setor": "Expedição maioral",
+        "Email": "expedicao@alemmarports.com.br",
+        "Ramal": "310"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Fabricio Lop",
+        "Setor": "Expedição litoral",
+        "Email": "expedicao@gmail.com.br",
+        "Ramal": "305"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Leandro Rodrigu",
+        "Setor": "Expedição maioral",
+        "Email": "expedicao@alemmarports.com.br",
+        "Ramal": "761"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Willian Jose",
+        "Setor": "Expedição litoral",
+        "Email": "expedicao@gmail.com.br",
+        "Ramal": "790"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Rodolfo Paulo",
+        "Setor": "portação",
+        "Email": "portacao@gmail.com.br",
+        "Ramal": "788"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Eduardo",
+        "Setor": "portação",
+        "Email": "portacao@gmail.com.br",
+        "Ramal": "788"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Paulo Erminio",
+        "Setor": "Financeiro",
+        "Email": "paulo.erminio@gmail.com.br",
+        "Ramal": "777"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Daniel Rangel",
+        "Setor": "Marketing",
+        "Email": "marketing@gmail.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Felipe Soar",
+        "Setor": "Fotus",
+        "Email": "engenharia@fotusenergia.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Felipe Souto",
+        "Setor": "Fotus",
+        "Email": "contato@fotusenergia.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Hudson vieira",
+        "Setor": "Marketing",
+        "Email": "marketing@fotusenergia.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Karen Pereira",
+        "Setor": "Fotus",
+        "Email": "marketing@fotusenergia.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Artur Kretli",
+        "Setor": "Fotus",
+        "Email": "engenharia@fotusenergia.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Breno",
+        "Setor": "Fotus",
+        "Email": "engenharia@fotusenergia.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Antonio",
+        "Setor": "Fotus",
+        "Email": "engenharia@fotusenergia.com.br",
+        "Ramal": "738"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Emanoella Oliveira",
+        "Setor": "Fotus ",
+        "Email": "fotus@gmail.com.br",
+        "Ramal": "769"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Pamela Nev",
+        "Setor": "Amostra",
+        "Email": "",
+        "Ramal": "764"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Eduardo",
+        "Setor": "Amostra",
+        "Email": "",
+        "Ramal": "764"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Neidiran Gura",
+        "Setor": "Amostra",
+        "Email": "",
+        "Ramal": "764"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Lucas",
+        "Setor": "Amostra",
+        "Email": "",
+        "Ramal": "765"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Mayara Mattos",
+        "Setor": "",
+        "Email": "mayara.mattos@gmail.com.br",
+        "Ramal": "721"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Anderson Silva",
+        "Setor": "Vendas",
+        "Email": "vendedor@gmail.com.br",
+        "Ramal": ""
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Paulo Tell",
+        "Setor": "",
+        "Email": "paulo.tell@gmail.com.br",
+        "Ramal": "721"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Fabricio Quintão",
+        "Setor": "",
+        "Email": "",
+        "Ramal": "721"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Ediel Costa",
+        "Setor": "Pilotagem",
+        "Email": "",
+        "Ramal": "729"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Evelyn Frediani",
+        "Setor": "Faturamento",
+        "Email": "faturamento@gmail.com.br",
+        "Ramal": "728"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Adriano Coquito",
+        "Setor": "Faturamento",
+        "Email": "faturamento@gmail.com.br",
+        "Ramal": "745"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Marcelo L",
+        "Setor": "Além mar",
+        "Email": "",
+        "Ramal": "782"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Douglas Damasio",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Willian Sarmento",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Anthony Mota",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Gabriel Bolonha",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Lucas Gabriel",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Julio Campista",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Gulherme Antonio",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Ronaldo Fernand",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Mathias Santana",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Romulo Lubiana",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Joao Henrique",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Joao Vitor",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    },
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Bruno de Souza",
+        "Setor": "Expedição Litoral",
+        "Email": "",
+        "Ramal": "761/767"
+    }
+    ,
+    {
+        "foto": "images/fotos/random.jpg",
+        "Nome": "Portaria",
+        "Setor": "Portaria",
+        "Email": "",
+        "Ramal": "730"
+    }
+    
+    
+]
